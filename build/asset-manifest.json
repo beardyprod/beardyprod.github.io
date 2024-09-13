@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3112ee0.css",
-    "main.js": "/static/js/main.0274417f.js",
-    "static/js/453.aabd51d8.chunk.js": "/static/js/453.aabd51d8.chunk.js",
-    "index.html": "/index.html",
-    "main.b3112ee0.css.map": "/static/css/main.b3112ee0.css.map",
-    "main.0274417f.js.map": "/static/js/main.0274417f.js.map",
-    "453.aabd51d8.chunk.js.map": "/static/js/453.aabd51d8.chunk.js.map"
+    "main.css": "https://beardyprod.github.io/build/static/css/main.b3112ee0.css",
+    "main.js": "https://beardyprod.github.io/build/static/js/main.0274417f.js",
+    "static/js/453.aabd51d8.chunk.js": "https://beardyprod.github.io/build/static/js/453.aabd51d8.chunk.js",
+    "index.html": "https://beardyprod.github.io/build/index.html",
+    "main.b3112ee0.css.map": "https://beardyprod.github.io/build/static/css/main.b3112ee0.css.map",
+    "main.0274417f.js.map": "https://beardyprod.github.io/build/static/js/main.0274417f.js.map",
+    "453.aabd51d8.chunk.js.map": "https://beardyprod.github.io/build/static/js/453.aabd51d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3112ee0.css",
